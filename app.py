@@ -3,7 +3,7 @@
 # ============================================================
 # Alumno: María Paula Durán
 # URL Streamlit Cloud: https://mda13bc5-7ew4kwq3umsi9ztcmoenhc.streamlit.app
-# URL GitHub: https://github.com/...
+# URL GitHub: https://github.com/mariapduranromero/MDA13BC5
 
 # ============================================================
 # IMPORTS
